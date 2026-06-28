@@ -6,7 +6,7 @@ This project leverages transactional data to uncover trends, optimize marketing,
 
 ---
 
-## 🎯 Project Aim
+##  Project Aim
 To answer the key business question:  
 *"How can consumer shopping data be leveraged to identify trends, improve customer engagement, and optimize marketing & product strategies?"*
 
@@ -33,7 +33,7 @@ To answer the key business question:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - **Total Customers:** 3,900+  
 - **Average Purchase Value:** $59.76  
 - **Revenue by Gender:** $157,890 male vs $75,101 female  
@@ -53,7 +53,7 @@ To answer the key business question:
 
 ---
 
-## 🛠 Tools & Skills Used
+##  Tools & Skills Used
 - **Data Cleaning & EDA:** Python (Pandas, NumPy)  
 - **Database Analysis:** SQL (PostgreSQL)  
 - **Visualization:** Power BI  
@@ -61,7 +61,7 @@ To answer the key business question:
 
 ---
 
-## 📊 Dashboard
+##  Dashboard
 ![Power BI Dashboard](https://raw.githubusercontent.com/Abdulrasheed055/Customer-Shopping-Behavior-Analysis-/main/customer.png)
 
 [View Live Dashboard](https://app.powerbi.com/...)
